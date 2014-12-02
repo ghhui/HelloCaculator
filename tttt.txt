@@ -9,3 +9,5 @@ function img = corr(img)
                      ooooo ooo0oo oOO ...
                 Ooo O0 Ooo0]);
 end
+
+add new line
